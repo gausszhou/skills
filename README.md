@@ -12,7 +12,7 @@ Forked from [mattpocock/skills](https://github.com/mattpocock/skills). Browse on
 
 | Skill | Language | Description |
 |---|---|---|
-| [domain-modeling](skills/domain-modeling/SKILL.md) | English | Build and maintain a project's domain model — glossary terms, ubiquitous language, and Architecture Decision Records (ADRs). |
+| [domain-modeling](skills/domain-modeling/SKILL.md) | Chinese | 构建并维护项目的领域模型——术语表、统一语言与架构决策记录（ADR）。 |
 | [grilling](skills/grilling/SKILL.md) | Chinese | Relentlessly stress-test a plan or design by questioning the user one branch at a time. |
 | [grill-me](skills/grill-me/SKILL.md) | Chinese | Delegation wrapper that routes to the `grilling` skill. |
 | [grill-with-docs](skills/grill-with-docs/SKILL.md) | Chinese | Combination of `grilling` and `domain-modeling` — interviews while producing ADRs and glossaries. |
