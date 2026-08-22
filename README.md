@@ -17,6 +17,7 @@ Forked from [mattpocock/skills](https://github.com/mattpocock/skills). Browse on
 | [grill-me](skills/grill-me/SKILL.md) | Chinese | Delegation wrapper that routes to the `grilling` skill. |
 | [grill-with-docs](skills/grill-with-docs/SKILL.md) | Chinese | Combination of `grilling` and `domain-modeling` — interviews while producing ADRs and glossaries. |
 | [handoff](skills/handoff/SKILL.md) | Chinese | Condense the current conversation into a handoff document for another agent to pick up. |
+| [takeover](skills/takeover/SKILL.md) | Chinese | Read the handoff document and take over the previous agent's work. |
 | [use-appimage](skills/use-appimage/SKILL.md) | Chinese | Install, run, and integrate AppImage apps — menu entry, autostart, and troubleshooting. |
 
 
