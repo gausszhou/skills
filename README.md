@@ -1,4 +1,4 @@
-# Skills For Real Engineers
+# Skills For Gauss Zhou
 
 A collection of reusable AI assistant skill prompts for software engineering workflows. Each skill is a `SKILL.md` file that instructs an AI coding assistant on how to behave in a specific scenario.
 
