@@ -19,5 +19,6 @@ Forked from [mattpocock/skills](https://github.com/mattpocock/skills). Browse on
 | [handoff](skills/handoff/SKILL.md) | Chinese | 将当前对话精简为一份交接文档，供其他代理接手继续工作。 |
 | [takeover](skills/takeover/SKILL.md) | Chinese | 读取交接文档并接手上一代理的工作，保持交接链不断。 |
 | [use-appimage](skills/use-appimage/SKILL.md) | Chinese | AppImage 的安装、运行与集成——应用菜单入口、开机自启与故障排查。 |
+| [use-linux-app](skills/use-linux-app/SKILL.md) | Chinese | Linux 桌面应用的安装、桌面/Dock 集成与验收——安装包结构、StartupWMClass、Wayland 截图与进程陷阱。 |
 
 
