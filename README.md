@@ -12,6 +12,7 @@ Forked from [mattpocock/skills](https://github.com/mattpocock/skills). Browse on
 
 | Skill | Language | Description |
 |---|---|---|
+| [code-review](skills/code-review/SKILL.md) | Chinese | 双轴评审固定点以来的改动——标准（仓库成文规范与 Fowler 坏味道基线）与规格（是否忠实实现最初的 issue），并行评审、分开报告。 |
 | [domain-modeling](skills/domain-modeling/SKILL.md) | Chinese | 构建并打磨项目的领域模型——术语表、统一语言与架构决策记录（ADR）。 |
 | [grilling](skills/grilling/SKILL.md) | Chinese | 对用户进行无情盘问，逐一压力测试方案或设计的每个分支决策。 |
 | [grill-me](skills/grill-me/SKILL.md) | Chinese | `grilling` 技能的委托封装，直接触发一次盘问会话。 |
